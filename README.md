@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+📝 TextUtils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A lightweight and responsive Text Utility React App to analyze and manipulate text instantly.
+Built with functional based component, it provides multiple text transformation features, an interactive Dark/Light Mode Toggle, and clean UI.
 
-## Available Scripts
+✨ Features
 
-In the project directory, you can run:
+✅ Convert text to Uppercase / Lowercase
+✅ Clear text instantly
+✅ Copy text with one click
+✅ Remove extra spaces from text
+✅ Word and Character count
+✅ Estimated reading time
+✅ Preview section for live output
+✅ Dark/Light Mode Toggle 🌙 ☀️
+✅ Responsive Navbar with About page
+✅ Alert messages for better UX
 
-### `npm start`
+🧩 Components Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Navbar.js → Responsive navigation bar with dark/light toggle
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+TextForm.js → Main text utility form (all text transformations)
 
-### `npm test`
+Alert.js → Displays real-time alerts (e.g., "Text copied")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+About.js → App information page
 
-### `npm run build`
+🖼️ Screenshots
+### Light Mode
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8491c3be-492b-4b0c-960f-452366d95604" />
+ ### Dark Mode
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/56a97361-4f2f-483e-b320-0f7bc06b4b71" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⚙️ Installation & Setup
+🔹 Clone the Repository
+git clone https://github.com/your-username/textutils.git
+cd textutils
+🔹 Install Dependencies
+    npm install
+🔹 Start Development Server
+    npm start
+    📍 App will run on: http://localhost:3000
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🚀 Tech Stack
 
-### `npm run eject`
+⚛ React.js (Hooks & Functional Components)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🎨 CSS for styling
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+⚡ Bootstrap
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🎯 Why TextUtils?
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project showcases:
 
-## Learn More
+Mastery of React Hooks (useState, props)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clean component-based architecture
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Dark/Light theme toggle (interviewers love this feature!)
 
-### Code Splitting
+Real-time form handling and alerts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+👨‍💻 Author
 
-### Analyzing the Bundle Size
+Lucky Kumar
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+B.Tech CSE , Guru Ghasidas Vishwavidyalaya (GGV), Bilaspur
 
-### Making a Progressive Web App
+  Tech Enthusiast | Web Development & DSA Learner
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+💼 LinkedIn:https://www.linkedin.com/in/lucky-kumar-56023a262/
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📧 Email:lucky9110132241@gmail.com.com
